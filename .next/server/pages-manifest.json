@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/artwork/[objectID]": "pages/artwork/[objectID].js",
+  "/favourites": "pages/favourites.js",
+  "/artwork": "pages/artwork.js",
+  "/history": "pages/history.js",
+  "/": "pages/index.js"
+}
